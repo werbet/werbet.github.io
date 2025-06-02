@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-curriculum-vitae",
           title: "curriculum vitae",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. TESTE",
+          description: "Este é meu currículo completo gerado a partir de um JSON seguindo o schema &#39;Resume JSON&#39;, que é um padrão para geração de currículos. Caso você queira uma versão resumida, tenho uma versão em PDF gerada via Latex.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
