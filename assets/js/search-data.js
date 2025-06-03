@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-curriculum-vitae",
           title: "curriculum vitae",
-          description: "Este é meu currículo detalhado gerado a partir de um JSON seguindo o schema &#39;Resume JSON&#39;, que é um padrão para geração de currículos. Caso você queira uma versão resumida, tenho uma versão em PDF gerada via Latex; favor clicar no ícone do PDF acima.",
+          description: "Este é meu currículo detalhado gerado a partir de um JSON seguindo o schema &#39;Resume JSON&#39;, que é um padrão para geração de currículos. Caso você queira uma versão resumida, tenho uma versão em PDF gerada via Latex; favor clicar no botão &quot;PDF&quot; acima.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
