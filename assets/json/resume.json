@@ -94,8 +94,7 @@
       "startDate": "2025",
       "endDate": "2026",
       "courses": [
-        "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL",
-        "MONOGRAFIA EM INTELIGÊNCIA ARTIFICIAL"
+        "Monografia em IA Generativa e Machine Learning"
       ]
     },
     {
@@ -105,8 +104,8 @@
       "startDate": "2011",
       "endDate": "2015",
       "courses": [
-        "TESE EM SISTEMAS OPERACIONAIS",
-        "DISCIPLINAS CONCLUÍDAS, TESE INCOMPLETA"
+        "Pesquisa em Sistemas Operacionais",
+        "Disciplinas Concluídas, Tese Incompleta"
       ]
     },
     {
@@ -116,7 +115,7 @@
       "startDate": "2005",
       "endDate": "2008",
       "courses": [
-        "DISSERTAÇÃO EM BANCOS DE DADOS"
+        "Dissertação em Bancos de Dados"
       ]
     },
     {
@@ -126,7 +125,7 @@
       "startDate": "1999",
       "endDate": "2004",
       "courses": [
-        "MONOGRAFIA EM BANCOS DE DADOS"
+        "Monografia em Bancos de Dados"
       ]
     }
   ],
@@ -181,11 +180,7 @@
       "level": "Experiente",
       "keywords": [
         "Estruturas de dados e algoritmos",
-        "Python",
-        "Ruby",
-        "Java",
-        "JavaScript",
-        "C/C++",
+        "Python, Ruby, Java, JavaScript, C/C++",
         "Frameworks e tecnologias de backend para APIs e serviços",
         "Integração e entrega contínua (CI/CD)",
         "Git",
@@ -199,22 +194,11 @@
       "name": "Ciência de Dados e IA",
       "level": "Cursando MBA na área",
       "keywords": [
-        "Estatística",
-        "álgebra linear e cálculo",
-        "Python",
-        "pandas",
-        "numpy",
-        "scipy",
-        "scikit-learn",
-        "matplotlib/seaborn",
-        "Regressão linear",
+        "Estatística, álgebra linear e cálculo",
+        "Python, pandas, numpy, scipy, scikit-learn, matplotlib/seaborn",
         "distribuições de probabilidade",
         "amostragem e redução de dimensionalidade",
-        "Modelos de aprendizado de máquina como regressão logística",
-        "Naive Bayes",
-        "árvores de decisão",
-        "florestas aleatórias",
-        "KNN e K-means",
+        "Modelos de machine learning supervisionados e não supervisionados",
         "Aplicações de IA generativa",
         "LLMs e suas APIs",
         "Agentic Al e prompt engineering"
@@ -223,9 +207,7 @@
     {
       "name": "Liderança",
       "keywords": [
-        "Liderei tecnicamente time com 6 arquitetos de soluções",
-        "mais de 100 iniciativas comerciais",
-        "9 projetos de desenvolvimento com até 15 profissionais"
+        "Liderei tecnicamente time com 6 arquitetos de soluções, mais de 100 iniciativas técnica-comerciais e 9 projetos de desenvolvimento com até 15 profissionais"
       ]
     },
     {
@@ -248,7 +230,6 @@
     {
       "name": "Pensamento Crítico e Resolução de Problemas",
       "keywords": [
-        "Orientado a fatos e dados",
         "Avaliei 192 iniciativas comerciais, de RFPs a editais públicos",
         "Implementei ferramentas para aumentar minha eficiência e dos times que trabalhei",
         "Identifiquei e corrigi problemas em projetos, soluções técnicas, propostas comerciais, estimativas de esforço etc."
