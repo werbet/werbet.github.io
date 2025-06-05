@@ -93,9 +93,7 @@
       "area": "Data Science e Analytics",
       "startDate": "2025",
       "endDate": "2026",
-      "courses": [
-        "Monografia em IA Generativa e Machine Learning"
-      ]
+      "courses": ["Monografia em IA Generativa e Machine Learning"]
     },
     {
       "institution": "Universidade de Fortaleza",
@@ -103,10 +101,7 @@
       "area": "Informática Aplicada",
       "startDate": "2011",
       "endDate": "2015",
-      "courses": [
-        "Pesquisa em Sistemas Operacionais",
-        "Disciplinas Concluídas, Tese Incompleta"
-      ]
+      "courses": ["Pesquisa em Sistemas Operacionais", "Disciplinas Concluídas, Tese Incompleta"]
     },
     {
       "institution": "Universidade de Fortaleza",
@@ -114,9 +109,7 @@
       "area": "Informática Aplicada",
       "startDate": "2005",
       "endDate": "2008",
-      "courses": [
-        "Dissertação em Bancos de Dados"
-      ]
+      "courses": ["Dissertação em Bancos de Dados"]
     },
     {
       "institution": "Universidade de Fortaleza",
@@ -124,9 +117,7 @@
       "area": "Informática",
       "startDate": "1999",
       "endDate": "2004",
-      "courses": [
-        "Monografia em Bancos de Dados"
-      ]
+      "courses": ["Monografia em Bancos de Dados"]
     }
   ],
   "awards": [
@@ -238,7 +229,7 @@
   ],
   "publications": [
     {
-      "name": "An agent program in an lol system to recommend activities to minimize childhood obesity problems.",
+      "name": "An agent program in an IoT system to recommend activities to minimize childhood obesity problems.",
       "publisher": "Proceedings of the 35th ACM/SIGAPP Symposium on Applied Computing (SAC 20)",
       "releaseDate": "2020",
       "url": "https://doi.org/10.1145/3341105.3373977",
